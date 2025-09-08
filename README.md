@@ -1,6 +1,3 @@
-# teamtaco
-Team Taco
-
 # Simple Chart Project
 
 The purpose of this project is creates a simple chart using JavaScript.  
